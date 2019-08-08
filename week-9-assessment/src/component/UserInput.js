@@ -4,7 +4,7 @@ export default class UserInput extends Component {
     render() {
         return (
             <div>
-                <input></input>
+                <input></input> <button>Add new</button>
             </div>
         )
     }
